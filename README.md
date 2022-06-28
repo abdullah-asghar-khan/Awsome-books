@@ -9,6 +9,7 @@ This project is a simple book list app to know how to use,create and learn proje
 - JS
 
 
+
 ## Live Demo
 
 - [Live Demo]()
@@ -22,6 +23,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 Dowload NPM and NODE
+
 ### Install
 
 Install the packages globally and after that:
