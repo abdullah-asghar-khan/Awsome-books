@@ -36,7 +36,7 @@ bookContainer.addEventListener('click', (e) => {
 });
 
 document.getElementById('nav-links').addEventListener('click', handleLinkClick);
-document.getElementById('defaultOpen').click(); 
+document.getElementById('defaultOpen').click();
 
 const navbar = document.querySelector('header');
 const dateEl = document.createElement('p');
