@@ -35,10 +35,17 @@ Install the packages globally and after that:
 `npx stylelint "**/*.scss"`
 `npx eslint .`
 
-## Author
-
+## Contributors
+## Autor 1
 - GitHub: [@githubhandle](https://github.com/Abdullah2213565)
 - Twitter: [@twitterhandle](https://twitter.com/dulakhan024)
+
+## Autor 2
+
+👤 **Ojesanmi Elizabeth Oyin**
+
+- GitHub: [@githubhandle](https://github.com/Lizdev-05)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
 
 ## 🤝 Contributing
 
