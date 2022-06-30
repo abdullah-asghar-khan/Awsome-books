@@ -46,6 +46,13 @@ main {
   min-height: 330px;
 }
 
+.year {
+  color: red;
+  margin: 10px 10px 0 0;
+  font-size: 1.2rem;
+  text-align: end;
+}
+
 .header {
   width: 80%;
   margin: 40px auto;
