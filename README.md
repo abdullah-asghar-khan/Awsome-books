@@ -7,6 +7,7 @@ This project is a simple book list app to know how to use,create and learn proje
 - HTML
 - CSS
 - JS
+- ES6
 
 
 ## Live Demo
